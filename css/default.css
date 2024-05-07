@@ -1,33 +1,37 @@
-.navbarhome{
+.navbarhome {
     width: 100%;
     height: 60px;
     background-color: black;
     margin: 0 auto;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    position:fixed;
+    position: fixed;
 }
-.logonav{
+
+.logonav {
     margin: 5px;
     height: 50px;
     width: 50px;
     border-radius: 100%;
 }
-.navhomelink{
-color: white;
-text-decoration: none;
-font-weight: bold;
-margin-left: 10px;
-padding: 5px;
-transition: 0.5s;
+
+.navhomelink {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 5px;
+    transition: 0.5s;
 }
-.navhomelink:hover{
+
+.navhomelink:hover {
     background-color: white;
     color: black;
     padding: 5px;
     border-radius: 15px;
 }
-.navhomelinkselected    {
+
+.navhomelinkselected {
     background-color: white;
     color: black;
     padding: 5PX;
@@ -35,27 +39,56 @@ transition: 0.5s;
     text-decoration: none;
     font-weight: bold;
 }
-.actbuttons{
-    margin-left:  68%;
+
+.actbuttons {
+    margin-left: 68%;
     display: inline;
 }
-.actbuttons a{
-background-color: white;
-color: black;
-border: none;
+
+.actbuttons a {
+    background-color: white;
+    color: black;
+    border: none;
 }
-.actbuttons a:hover{
+
+.actbuttons a:hover {
     background-color: grey;
     color: black;
     border: none;
-    }
+}
 
-.hero{
+.hero {
     height: 90vh;
     background-image: url(../img/Example.png);
     background-size: cover;
 }
-#actnav .actbuttons{
-    margin-left:  70%;
+
+#actnav .actbuttons {
+    margin-left: 70%;
     display: inline;
+}
+
+.formulario {
+    /* padding: 15rem;
+    max-width: 100%;
+    width: 50%;
+    height: 50%; */
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Login {
+    padding: 15rem;
+    max-width: 100%;
+    width: 60%;
+    height: 60%;
+}
+
+.form-nao-conta{
+    margin: 1rem;
+    display: flex;
+    justify-content: space-between;
 }

@@ -14,7 +14,7 @@
         <a href="./about.html" class="navhomelink">Sobre</a>
         <a href="./faq.html" class="navhomelink">FAQ</a>
     </nav>
-    <main>
+    <main class="Login">
         <form>
             <div class="form-group">
               <label for="email">E-mail Institucional:</label> 
@@ -37,12 +37,17 @@
                 </div> 
                 <input id="password" name="password" placeholder="Digite a Sua Senha" type="text" class="form-control" required="required">
               </div>
-            </div> 
+            </div> <br>
             <div class="form-group">
-              <button name="submit" type="submit" class="btn btn-primary">Login</button>
+              <button style="
+               display: flex;
+               align-items: center;
+              justify-content: center;
+              height: 30;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
+               name="submit" type="submit" class="btn btn-primary">Login</button>
             </div>
-          </form>
-    </main>
+          </main>
     <script src="../bootstrap/js/bootstrap.js"></script>
 </body>
 </html>
