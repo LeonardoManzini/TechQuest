@@ -2,8 +2,8 @@
 
 //Parametros de conexão
 $servidor = "localhost";
-$usuario = "login";
-$senha = "3I$?(MRGQd#uDQDjje~!r<\l2A}Ak6)7T]@bIDE^=s1q=~£epbSc#KcK]mMn}rDs~@s^AI{KhY~)hTO_uNLx)3Snts3YeaS_K";
+$usuario = "showinfoaluno";
+$senha = "dnJoMa,]o@I}6$~[3q5]~.ikc4#)zclZ0g=+#jrc4c+9MfB@dtV9nGFIT}Kqt(4t2dKf0=IyB%8Q-IKGqWK,siuHIG6hSH8~h5x3";
 $bd = "TechQuest";
 
 //Conexao com o BD

@@ -2,8 +2,8 @@
 
 //Parametros de conexão
 $servidor = "localhost";
-$usuario = "login";
-$senha = "3I$?(MRGQd#uDQDjje~!r<\l2A}Ak6)7T]@bIDE^=s1q=~£epbSc#KcK]mMn}rDs~@s^AI{KhY~)hTO_uNLx)3Snts3YeaS_K";
+$usuario = "upcoins";
+$senha = "CY@_tkYNg-JgpC,=S{C+91_6Io(GD;A-1TvlkMKjzr1AELN_&AeLQAL&+LubYTAoiCJqeagkmRp3+wGCf.U8U}62tEf=]tvrsR{vsI%gAa]oqM1M(_H}70zMxB^.OA3e6('j,Z8)u$.C36..Lm7m-P#4FtJi6Zf5FAtY{w3o&KRW1ZGfswke_a+HbiT5K0jwZ%MMPxaZ";
 $bd = "TechQuest";
 
 //Conexao com o BD

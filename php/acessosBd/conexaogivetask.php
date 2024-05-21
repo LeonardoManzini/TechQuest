@@ -2,8 +2,8 @@
 
 //Parametros de conexão
 $servidor = "localhost";
-$usuario = "login";
-$senha = "3I$?(MRGQd#uDQDjje~!r<\l2A}Ak6)7T]@bIDE^=s1q=~£epbSc#KcK]mMn}rDs~@s^AI{KhY~)hTO_uNLx)3Snts3YeaS_K";
+$usuario = "givetask";
+$senha = "(8iE0ad9xn7tvWnvkKA+U;5reYwfeUx(N9M];5[7(%i-i#QFSLkc_5G+%Cshn4qizbIPV1cqJ)40sAQZ~VP!LBQ5E+P83]F{#";
 $bd = "TechQuest";
 
 //Conexao com o BD

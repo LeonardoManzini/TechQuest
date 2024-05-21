@@ -2,8 +2,8 @@
 
 //Parametros de conexão
 $servidor = "localhost";
-$usuario = "login";
-$senha = "3I$?(MRGQd#uDQDjje~!r<\l2A}Ak6)7T]@bIDE^=s1q=~£epbSc#KcK]mMn}rDs~@s^AI{KhY~)hTO_uNLx)3Snts3YeaS_K";
+$usuario = "trade";
+$senha = "j$~-jkFqERg%a#ipqi'A-aeEXaf',s4YRpQ-yC6u@+jW3^DLgqV3yx(qzCz6aiaXo(cjA'aiwMadsSY3xku^)Om27SSK{_,NgXOtM.2v$%9v[_V{7L_N[#_hhr,8;WBr9rpf-&]9HftZEGaG@-37Ie";
 $bd = "TechQuest";
 
 //Conexao com o BD

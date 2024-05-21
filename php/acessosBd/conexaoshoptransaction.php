@@ -2,8 +2,8 @@
 
 //Parametros de conexão
 $servidor = "localhost";
-$usuario = "login";
-$senha = "3I$?(MRGQd#uDQDjje~!r<\l2A}Ak6)7T]@bIDE^=s1q=~£epbSc#KcK]mMn}rDs~@s^AI{KhY~)hTO_uNLx)3Snts3YeaS_K";
+$usuario = "shoptransation";
+$senha = "C6TJ.J3vkw~C-}~ZMX9zPpCuVgcIG%I}Vj]MNkp30nuC)REu8kg.drJXm06hs^Zv]@SkJkpRxa,SlS(sZLW1@I}$[#j6JOdn1-G_HLqEV_+hF;6N.qHC@UEbV#}O}bTZRR=UoZM;t@7MEJFboJWn";
 $bd = "TechQuest";
 
 //Conexao com o BD
